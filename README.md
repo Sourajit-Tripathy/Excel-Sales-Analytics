@@ -25,6 +25,7 @@ Importance of Analyzing Sales Data: Analyzing sales data helps in recognizing sa
 
 1. **Create Profit and Loss (P&L) reports by Fiscal Year & Months**
 **FY Link** : - https://github.com/Sourajit-Tripathy/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
+
 **Month Link** :-  https://github.com/Sourajit-Tripathy/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
 
 2. **Generate Profit and Loss (P&L) reports by Markets**
